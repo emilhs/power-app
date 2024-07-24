@@ -11,7 +11,7 @@ library(shiny)
 library(bslib)
 library(tidyr)
 library(tidyverse)
-#library(epiR)
+library(epiR)
 library(ggplot2)
 library(pwr)
 
